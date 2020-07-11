@@ -4,7 +4,7 @@ My name is Adam and I'm a young hobbyist full-stack developer. I'm a big fan of 
 
 After hours, with my friend [Artur](https://github.com/datejer), I create [Require Podcast](https://require.podcast.gq) - polish podcast about webdevelopment. 
 
-## My projects and contributions:
+### My projects and contributions:
 
 - [gatsby-plugin-nodejs](https://github.com/AdamSiekierski/gatsby-plugin-nodejs) - Gatsby plugin for integration with Node.js servers
 - [holdmabeer](https://github.com/AdamSiekierski/holdmabeer) - Hold ma BEEER 🍺
