@@ -8,7 +8,7 @@ After hours, with my friend [Artur](https://github.com/datejer), I create [Requi
 
 - [gatsby-plugin-nodejs](https://github.com/AdamSiekierski/gatsby-plugin-nodejs) - Gatsby plugin for integration with Node.js servers
 - [holdmabeer](https://github.com/AdamSiekierski/holdmabeer) - Hold ma BEEER 🍺
-- [pro-jects](https://github.com/pro-jectsapp) - A better UI for GitHub Projects 📟  (still W.I.P.)
+- [pro-jects](https://github.com/pro-jectsapp) - A better UI for GitHub Projects 📟  - still W.I.P.
 - [requirepodcast](https://github.com/requirepodcast) - My podcast (+ its' website, app, **render server**, etc.)
 - [gatsby-pl](https://github.com/gatsbyjs/gatsby-pl) - Polish translation of Gatsby documentation
 - [blog](https://github.com/AdamSiekierski/blog) and [website](https://github.com/AdamSiekierski/website) - My blog (with 3 posts) and website, which you can see at https://siekierski.ml
