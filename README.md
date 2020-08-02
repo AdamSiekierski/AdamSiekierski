@@ -13,3 +13,7 @@ After hours, with my friend [Artur](https://github.com/datejer), I create [Requi
 - [gatsby-pl](https://github.com/gatsbyjs/gatsby-pl) - Polish translation of Gatsby documentation
 - [blog](https://github.com/AdamSiekierski/blog) and [website](https://github.com/AdamSiekierski/website) - My blog (with 3 posts) and website, which you can see at https://siekierski.ml
 - [podcast-renderer](https://github.com/AdamSiekierski/podcast-renderer) - Node.js script, that given a logo and text, renders a video out of .mp3 file using `ffmpeg`
+
+### My stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=AdamSiekierski&count_private=true" width="100%" alt="my stats" />
