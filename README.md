@@ -10,11 +10,11 @@ After hours, with my friend [Artur](https://github.com/datejer), I create [Requi
 - [writes.](https://github.com/writesapp) - An ongoing app for sharing ideas for school homeworks and essays
 - [gittie](https://github.com/AdamSiekierski/gittie) - App made with Go, for quick creating of .gittignore file
 - [requirepodcast](https://github.com/requirepodcast) - My podcast (+ its' [website](https://github.com/requirepodcast/website), [mobile app](https://github.com/requirepodcast/app), [**studio webapp**](https://github.com/requirepodcast/studio), etc.)
-- [website](https://github.com/AdamSiekierski/website) - My personal website, made with Vue.js
+- [website](https://github.com/AdamSiekierski/website) - My personal website, made with Vue.js. https://siekierski.ml
 - [gatsby-plugin-nodejs](https://github.com/AdamSiekierski/gatsby-plugin-nodejs) - Gatsby plugin for integration with Node.js servers
 - [holdmabeer](https://github.com/AdamSiekierski/holdmabeer) - Hold ma BEEER 🍺
 - [gatsby-pl](https://github.com/gatsbyjs/gatsby-pl) - Polish translation of Gatsby documentation
-- [blog](https://github.com/AdamSiekierski/blog) and [website](https://github.com/AdamSiekierski/website) - My blog (with 3 posts) and website, which you can see at https://siekierski.ml
+- [blog](https://github.com/AdamSiekierski/blog) - My blog (with 3 posts), which you can see at https://blog.siekierski.ml
 - [podcast-renderer](https://github.com/AdamSiekierski/podcast-renderer) - Node.js script, that given a logo and text, renders a video out of .mp3 file using `ffmpeg`
 
 ### My stats
