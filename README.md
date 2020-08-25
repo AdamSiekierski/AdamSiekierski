@@ -19,7 +19,8 @@ After hours, with my friend [Artur](https://github.com/datejer), I create [Requi
 
 ### My stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdamSiekierski&layout=compact" width="75%" alt="langs" />
-<img src="https://github-readme-stats.vercel.app/api?username=AdamSiekierski&count_private=true&show_icons=true" width="75%" alt="my stats" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdamSiekierski&layout=compact" width="400" alt="langs" />
+    <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=AdamSiekierski&count_private=true&show_icons=true" width="400" alt="my stats" />
 </p>
