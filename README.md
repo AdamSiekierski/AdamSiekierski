@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Adam and I'm a young hobbyist full-stack developer. I'm a big fan of JavaScript, Node.js, React and Vue.js. I also have some expirience in React Native.
+My name is Adam and I'm a young hobbyist full-stack developer. I'm a big fan of JavaScript, Node.js, React and Vue.js. I also have some experience with React Native.
 
 After hours, with my friend [Artur](https://github.com/datejer), I create [Require Podcast](https://require.podcast.gq) - polish podcast about webdevelopment. 
 
