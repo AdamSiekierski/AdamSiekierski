@@ -8,7 +8,6 @@ After hours, with my friend [Artur](https://github.com/datejer), I create [Requi
 
 - [requirepodcast](https://github.com/requirepodcast) - My podcast (+ its' [website with episodes generated from markdown files](https://github.com/requirepodcast/website), [mobile app](https://github.com/requirepodcast/app) and [**studio webapp for rendering episodes and generating promotional images**](https://github.com/requirepodcast/studio), etc.)
 - [website](https://github.com/AdamSiekierski/website) - My personal website, made with Vue.js. https://siekierski.ml
-- [blog](https://github.com/AdamSiekierski/blog) - My blog (with 3 posts), which you can see at https://blog.siekierski.ml
 - [whatcanibuy](https://github.com/AdamSiekierski/whatcanibuy) - A simple web app made using Svelte, for showing you interesting items you can buy for a amount of money. Mostly made during Hacktoberfest 2020 with help of some open source contributors
 - [gatsby-plugin-nodejs](https://github.com/AdamSiekierski/gatsby-plugin-nodejs) - Gatsby plugin for integration with Node.js servers
 - [gittie](https://github.com/AdamSiekierski/gittie) - App made with Go, for quick creating of .gittignore file
