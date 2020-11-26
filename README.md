@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Adam and I'm a young hobbyist full-stack developer. I'm a big fan of JavaScript, Node.js, React and Vue.js. I also have some experience with React Native.
+My name is Adam and I'm a young hobbyist full-stack developer. I'm a big fan of JavaScript, Node.js, React and Vue.js. I love creating useful apps using the latest technologies - my main focuses are frontend with React and Vue, mobile apps with Swift and React Native. I'm also learning backend - I have some experience with Node.js (Express and Nest.js) and I love checking out new technologies like Golang and .NET Core.
 
 After hours, with my friend [Artur](https://github.com/datejer), I create [Require Podcast](https://require.podcast.gq) - polish podcast about webdevelopment. 
 
@@ -11,6 +11,7 @@ After hours, with my friend [Artur](https://github.com/datejer), I create [Requi
   - [App](https://github.com/requirepodcast/app) - Official app for listening to the podcast, made with React Native
   - [studio](https://github.com/requirepodcast/studio) - Web app for us to easily render episodes for YouTube using ffmpeg, generate promotional images and control our permalinks, deployed using Docker on Microsoft Azure. Currently working on solution based off this, which'll be able to work with any podcast and be easily deployable
   - [require('letter')](https://github.com/requirepodcast/letter) - Webpage for our newsletter, made using Next.js. Has some serverless functions for registering and sending a welcome email, and for connecting our CMS (Contentful) with our mail provider - Sendgrid.
+  - [iOS App](https://github.com/requirepodcast/ios) - I'm currently also learning 
 - [website](https://github.com/AdamSiekierski/website) - My personal website, made with Vue.js. https://siekierski.ml
 - [whatcanibuy](https://github.com/AdamSiekierski/whatcanibuy) - A simple web app made using Svelte, for showing you interesting items you can buy for a amount of money. Mostly made during Hacktoberfest 2020 with help of some open source contributors
 - [gatsby-plugin-nodejs](https://github.com/AdamSiekierski/gatsby-plugin-nodejs) - Gatsby plugin for integration with Node.js servers
