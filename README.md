@@ -6,7 +6,11 @@ After hours, with my friend [Artur](https://github.com/datejer), I create [Requi
 
 ### My projects and contributions:
 
-- [requirepodcast](https://github.com/requirepodcast) - My podcast (+ its' [website with episodes generated from markdown files](https://github.com/requirepodcast/website), [mobile app](https://github.com/requirepodcast/app) and [**studio webapp for rendering episodes and generating promotional images**](https://github.com/requirepodcast/studio), etc.)
+- [Require Podcast](https://require.podcast.gq) - My podcast about JavaScript and web development:
+  - [Website](https://github.com/requirepodcast/website) - Our website, made with Gatsby.js, with data sourced from Markdown files from [episodes](https://github.com/requirepodcast/episodes) repo
+  - [App](https://github.com/requirepodcast/app) - Official app for listening to the podcast, made with React Native
+  - [studio](https://github.com/requirepodcast/studio) - Web app for us to easily render episodes for YouTube using ffmpeg, generate promotional images and control our permalinks, deployed using Docker on Microsoft Azure. Currently working on solution based off this, which'll be able to work with any podcast and be easily deployable
+  - [require('letter')](https://github.com/requirepodcast/letter) - Webpage for our newsletter, made using Next.js. Has some serverless functions for registering and sending a welcome email, and for connecting our CMS (Contentful) with our mail provider - Sendgrid.
 - [website](https://github.com/AdamSiekierski/website) - My personal website, made with Vue.js. https://siekierski.ml
 - [whatcanibuy](https://github.com/AdamSiekierski/whatcanibuy) - A simple web app made using Svelte, for showing you interesting items you can buy for a amount of money. Mostly made during Hacktoberfest 2020 with help of some open source contributors
 - [gatsby-plugin-nodejs](https://github.com/AdamSiekierski/gatsby-plugin-nodejs) - Gatsby plugin for integration with Node.js servers
