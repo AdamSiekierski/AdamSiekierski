@@ -19,6 +19,7 @@ After hours, with my friend [Artur](https://github.com/datejer), I create [Requi
 - [holdmabeer](https://github.com/AdamSiekierski/holdmabeer) - Hold ma BEEER 🍺
 - [gatsby-pl](https://github.com/gatsbyjs/gatsby-pl) - Polish translation of Gatsby.js documentation
 - [podcast-renderer](https://github.com/AdamSiekierski/podcast-renderer) - Node.js script, that given a logo and text, renders a video out of .mp3 file using `ffmpeg`
+- [zskTasks](https://zsktasks.gq) - A simple app I made with my friends using Node.js and Gatsby, to have a one place collecting all our school tasks. https://github.com/tripleadev/zsktasks-website https://github.com/tripleadev/zsktasks-api
 
 ### My stats
 
