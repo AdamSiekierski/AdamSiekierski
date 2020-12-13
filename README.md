@@ -21,9 +21,9 @@ After hours, with my friend [Artur](https://github.com/datejer), I create [Requi
 - [podcast-renderer](https://github.com/AdamSiekierski/podcast-renderer) - Node.js script, that given a logo and text, renders a video out of .mp3 file using `ffmpeg`
 - [zskTasks](https://zsktasks.gq) - A simple app I made with my friends using Node.js and Gatsby, to have a one place collecting all our school tasks. https://github.com/tripleadev/zsktasks-website https://github.com/tripleadev/zsktasks-api
 
-### My stats
+<h3 align="center">My stats</h3>
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdamSiekierski&layout=compact" width="400" alt="langs" />
     <br />
   <img src="https://github-readme-stats.vercel.app/api?username=AdamSiekierski&count_private=true&show_icons=true" width="400" alt="my stats" />
