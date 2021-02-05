@@ -4,22 +4,21 @@ My name is Adam and I'm a young hobbyist full-stack developer. I'm a big fan of 
 
 After hours, with my friend [Artur](https://github.com/datejer), I create [Require Podcast](https://require.podcast.gq) - polish podcast about webdevelopment. 
 
-### My projects and contributions:
+### Nice projects and contributions:
 
 - [Require Podcast](https://require.podcast.gq) - My podcast about JavaScript and web development:
   - [Website](https://github.com/requirepodcast/website) - Our website, made with Gatsby.js, with data sourced from Markdown files from [episodes](https://github.com/requirepodcast/episodes) repo
+  - [require('letter')](https://github.com/requirepodcast/letter) - Webpage for our newsletter, made using Next.js. Has some serverless functions for registering and sending a welcome email, and for connecting our CMS (Contentful) with our mail provider - Sendgrid.
   - [App](https://github.com/requirepodcast/app) - Official app for listening to the podcast, made with React Native. 
   - [studio](https://github.com/requirepodcast/studio) - Web app for us to easily render episodes for YouTube using ffmpeg, generate promotional images and control our permalinks, deployed using Docker on Microsoft Azure. Currently working on solution based off this, which'll be able to work with any podcast and be easily deployable
-  - [require('letter')](https://github.com/requirepodcast/letter) - Webpage for our newsletter, made using Next.js. Has some serverless functions for registering and sending a welcome email, and for connecting our CMS (Contentful) with our mail provider - Sendgrid.
-  - [iOS App](https://github.com/requirepodcast/ios) - I'm currently also learning Swift, so that's one of the projects for learning. Currently we don't plan to deploy it to the public, as we have the React Native version and we don't have Apple's developer account.
 - [website](https://github.com/AdamSiekierski/website) - My personal website, made with Vue.js. https://siekierski.ml
+- [polskifrontend](https://github.com/typeofweb/polskifrontend) - I'm one of the developers creating and improving https://polskifrontend.pl - a website where you can find all polish blogs about frontend
 - [whatcanibuy](https://github.com/AdamSiekierski/whatcanibuy) - A simple web app made using Svelte, for showing you interesting items you can buy for a amount of money. Mostly made during Hacktoberfest 2020 with help of some open source contributors
 - [gatsby-plugin-nodejs](https://github.com/AdamSiekierski/gatsby-plugin-nodejs) - Gatsby plugin for integration with Node.js servers
-- [gittie](https://github.com/AdamSiekierski/gittie) - App made with Go, for quick creating of .gittignore file
+- [gittie](https://github.com/AdamSiekierski/gittie) - App made with Go, for quick creation of .gittignore file
 - [holdmabeer](https://github.com/AdamSiekierski/holdmabeer) - Hold ma BEEER 🍺
 - [gatsby-pl](https://github.com/gatsbyjs/gatsby-pl) - Polish translation of Gatsby.js documentation
 - [podcast-renderer](https://github.com/AdamSiekierski/podcast-renderer) - Node.js script, that given a logo and text, renders a video out of .mp3 file using `ffmpeg`
-- [zskTasks](https://zsktasks.gq) - A simple app I made with my friends using Node.js and Gatsby, to have a one place collecting all our school tasks. https://github.com/tripleadev/zsktasks-website https://github.com/tripleadev/zsktasks-api
 
 <h3 align="center">My stats</h3>
 
