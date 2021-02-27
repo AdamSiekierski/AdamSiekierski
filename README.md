@@ -11,7 +11,7 @@ After hours, with my friend [Artur](https://github.com/datejer), I create [Requi
   - [require('letter')](https://github.com/requirepodcast/letter) - Webpage for our newsletter, made using Next.js. Has some serverless functions for registering and sending a welcome email, and for connecting our CMS (Contentful) with our mail provider - Sendgrid.
   - [App](https://github.com/requirepodcast/app) - Official app for listening to the podcast, made with React Native. 
   - [studio](https://github.com/requirepodcast/studio) - Web app for us to easily render episodes for YouTube using ffmpeg, generate promotional images and control our permalinks, deployed using Docker on Microsoft Azure. Currently working on solution based off this, which'll be able to work with any podcast and be easily deployable
-- [website](https://github.com/AdamSiekierski/website) - My personal website, made with Vue.js. https://siekierski.ml
+- [website](https://github.com/AdamSiekierski/website) - My personal website, made with Vue.js. https://siekierski.me
 - [polskifrontend](https://github.com/typeofweb/polskifrontend) - I'm one of the developers creating and improving https://polskifrontend.pl - a website where you can find all polish blogs about frontend
 - [whatcanibuy](https://github.com/AdamSiekierski/whatcanibuy) - A simple web app made using Svelte, for showing you interesting items you can buy for a amount of money. Mostly made during Hacktoberfest 2020 with help of some open source contributors
 - [gatsby-plugin-nodejs](https://github.com/AdamSiekierski/gatsby-plugin-nodejs) - Gatsby plugin for integration with Node.js servers
