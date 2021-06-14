@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Adam and I'm a young hobbyist full-stack developer. I'm a big fan of JavaScript, Node.js, React and Vue.js. I love creating useful apps using the latest technologies - my main focuses are frontend with React and Vue, mobile apps with Swift and React Native. I'm also learning backend - I have some experience with Node.js (Express and Nest.js) and I love checking out new technologies like Golang.
+My name is Adam and I'm a young full-stack developer. I'm a big fan of JavaScript, TypeScript, Node.js, React and Vue.js. I love creating useful apps using the latest technologies - my main focuses are frontend with React and Vue, mobile apps with Swift and React Native. I'm also learning backend - I have some experience with Node.js (Express and Nest.js) and I love checking out new technologies like Golang.
 
 After hours, with my friend [Artur](https://github.com/datejer), I create [Require Podcast](https://require.podcast.gq) - polish podcast about webdevelopment. 
 
