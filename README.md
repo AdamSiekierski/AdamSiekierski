@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-My name is Adam and I'm a software developer. I'm a big fan of TypeScript, JavaScript, React, Node.js and Vue.js. I'm currently working at [AppUnite](https://appunite.com) as a frontend developer. I'm open to new technologies and solutions, and always willing to learn new things.
-My main focuses right now are broadening my knowledge beyond the JavaScript world, and trying to dive into a completely new platform - like iOS.
+My name is Adam and I'm a software developer. I'm a big fan of TypeScript, JavaScript, React, and Node.js. I'm currently working at [AppUnite](https://appunite.com) as a full-stack developer, mostly with React and Elixir (Phoenix). I'm open to new technologies and solutions, and always willing to learn new things.
+My main focuses right now are broadening my knowledge beyond the JavaScript world, going deeper into Elixir and maybe trying some mobile platforms in the future? 🤔
 
 ### Nice projects and contributions:
 
