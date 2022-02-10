@@ -5,7 +5,7 @@ My main focuses right now are broadening my knowledge beyond the JavaScript worl
 
 ### Nice projects and contributions:
 
-- [Require Podcast](https://require.podcast.gq) - My podcast about JavaScript and web development:
+- [Require Podcast](https://require.pl) - My podcast about JavaScript and web development:
   - [Website](https://github.com/requirepodcast/website) - Our website, made with Gatsby.js, with data sourced from Markdown files from [episodes](https://github.com/requirepodcast/episodes) repo
   - [require('letter')](https://github.com/requirepodcast/letter) - Webpage for our newsletter, made using Next.js. Has some serverless functions for registering and sending a welcome email, and for connecting our CMS (Contentful) with our mail provider - Sendgrid.
   - [App](https://github.com/requirepodcast/app) - Official app for listening to the podcast, made with React Native. 
